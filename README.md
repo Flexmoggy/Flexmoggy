@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Flexmoggy
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Java
-
+- 👋 Hi, I’m @CaseClosed
+- 👀 I’m interested in exploring and learning new things
+  
 <!---
-Flexmoggy/Flexmoggy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Case Closed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
